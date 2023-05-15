@@ -1,4 +1,4 @@
-# [Weather Widget](https://weather-widget.github.io)
+# [Weather Widget](https://sfounder.github.io/weather-widget.github.io/)
 
 ![sitepreview.png](./src/theme/assets/site-preview.png)
 
