@@ -2,6 +2,13 @@
 
 ![sitepreview.png](./src/theme/assets/site-preview.png)
 
+### Tech Stack
+
+* HTML & SCSS
+* React
+* React Query
+* MobX
+
 ### Як запустити додаток локально:
 
 1. Для встановлення залежностей виконай:
